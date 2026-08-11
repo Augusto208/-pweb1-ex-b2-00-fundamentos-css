@@ -23,22 +23,28 @@
 
 body {
   /* TODO: background-color */
+background-color: rgba(0, 119, 255, 0.63);
 }
+
 
 #topo {
   /* TODO: background-color */
+background-color: rgb(16, 114, 45);
 }
 
 h1 {
   /* TODO: text-align: center */
+text-align: center;
 }
 
 .cargo {
   /* TODO: font-weight: bold OU font-style: italic */
+font-weight: bold;
 }
 
 .cartao {
   /* TODO: padding, border e margin */
+
 }
 
 .btn {
