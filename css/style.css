@@ -45,7 +45,7 @@ font-weight: bold;
 .cartao {
   /* TODO: padding, border e margin */
 padding: 10px;
-border: 10px;
+border: 10px solid; 
 margin: 10px;
 }
 
