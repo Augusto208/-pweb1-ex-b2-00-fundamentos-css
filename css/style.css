@@ -44,9 +44,12 @@ font-weight: bold;
 
 .cartao {
   /* TODO: padding, border e margin */
-
+padding: 10px;
+border: 10px;
+margin: 10px;
 }
 
 .btn {
   /* TODO: background-color */
+background-color: rgb(110, 19, 19); 
 }
